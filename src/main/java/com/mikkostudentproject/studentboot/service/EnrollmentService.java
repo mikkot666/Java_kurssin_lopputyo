@@ -2,7 +2,6 @@ package com.mikkostudentproject.studentboot.service;
 
 import org.springframework.stereotype.Service;
 
-import com.mikkostudentproject.studentboot.models.Course;
 import com.mikkostudentproject.studentboot.models.Enrollment;
 
 import java.util.List;

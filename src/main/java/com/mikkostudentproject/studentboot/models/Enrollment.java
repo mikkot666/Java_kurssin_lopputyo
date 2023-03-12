@@ -1,6 +1,5 @@
 package com.mikkostudentproject.studentboot.models;
 
-import java.time.LocalDateTime;
 
 import javax.persistence.*;
 

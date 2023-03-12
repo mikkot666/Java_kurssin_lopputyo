@@ -1,11 +1,9 @@
 package com.mikkostudentproject.studentboot.controller;
 
-import com.mikkostudentproject.studentboot.models.Course;
 import com.mikkostudentproject.studentboot.models.Enrollment;
 import com.mikkostudentproject.studentboot.service.EnrollmentService;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

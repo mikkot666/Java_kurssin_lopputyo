@@ -2,7 +2,6 @@ package com.mikkostudentproject.studentboot.service.impl;
 
 import com.mikkostudentproject.studentboot.models.Course;
 import com.mikkostudentproject.studentboot.repository.CourseRepository;
-import com.mikkostudentproject.studentboot.repository.StudentRepository;
 import com.mikkostudentproject.studentboot.service.CourseService;
 
 
@@ -18,8 +17,6 @@ public class CourseServiceImpl implements CourseService {
     
     @Autowired
     private CourseRepository courseRepository;
-    @Autowired
-    private StudentRepository studentRepository;
 
 
     /*@Autowired
